@@ -62,7 +62,6 @@ typeof undefined; // "undefined"
 undefined == null; // true
 undefined === null; // false
 ```
-
 --
 
 #### primitive methods
